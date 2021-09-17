@@ -1,0 +1,1551 @@
+toc:
+- 10X: 4
+  BN: 1
+  HiC: 0
+  Ilm: 4
+  PB: 2
+  VGPId: mEleMax1
+  asm: '0'
+  classes: Mammalia,Proboscidea,Elephantidae,mammals
+  common: Asiatic elephant
+  scientific: Elephas maximus
+- 10X: 1
+  BN: 1
+  HiC: 1
+  Ilm: 4
+  PB: 1
+  VGPId: mArvNil1
+  asm: curated
+  classes: Mammalia,Rodentia,Muridae,mammals
+  common: African grass rat
+  scientific: Arvicanthis niloticus
+- 10X: 4
+  BN: 1
+  HiC: 1
+  Ilm: 4
+  PB: 1
+  VGPId: bHarHar1
+  asm: running
+  classes: Aves,Falconiformes,Accipitridae,birds
+  common: Harpy eagle
+  scientific: Harpia harpyja
+- 10X: 1
+  BN: 1
+  HiC: 1
+  Ilm: 4
+  PB: 1
+  VGPId: sAmbRad1
+  asm: curated
+  classes: Chondrichthyes,Rajiformes,Rajidae,cartilaginous fishes
+  common: thorny skate
+  scientific: Amblyraja radiata
+- 10X: 1
+  BN: 1
+  HiC: 1
+  Ilm: 4
+  PB: 1
+  VGPId: rDerCor1
+  asm: curated
+  classes: Reptilia,Testudines,Dermochelyidae,reptiles
+  common: leatherback sea turtle
+  scientific: Dermochelys coriacea
+- 10X: 4
+  BN: 1
+  HiC: 2
+  Ilm: 4
+  PB: 5
+  VGPId: fHypTra1
+  asm: '0'
+  classes: Actinopterygii,Osmeriformes,Osmeridae,Bony fishes
+  common: delta smelt
+  scientific: Hypomesus transpacificus
+- 10X: 4
+  BN: 1
+  HiC: 1
+  Ilm: 4
+  PB: 2
+  VGPId: rEmyOrb1
+  asm: '0'
+  classes: Reptilia,Testudines,Emydidae,reptiles
+  common: European pond turtle
+  scientific: Emys orbicularis
+- 10X: 0
+  BN: 1
+  HiC: 1
+  Ilm: 4
+  PB: 5
+  VGPId: fAnaTes1
+  asm: curated
+  classes: Actinopterygii,Anabantiformes,Anabantidae,Bony fishes
+  common: climbing perch
+  scientific: Anabas testudineus
+- 10X: 4
+  BN: 1
+  HiC: 1
+  Ilm: 4
+  PB: 1
+  VGPId: rPodRaf1
+  asm: running
+  classes: Reptilia,Squamata,Lacertidae,reptiles
+  common: Aeolian wall lizard
+  scientific: Podarcis raffonei
+- 10X: 0
+  BN: 1
+  HiC: 5
+  Ilm: 4
+  PB: 5
+  VGPId: mSciVul1
+  asm: curated
+  classes: Mammalia,Rodentia,Sciuridae,mammals
+  common: Eurasian red squirrel
+  scientific: Sciurus vulgaris
+- 10X: 4
+  BN: 1
+  HiC: 1
+  Ilm: 4
+  PB: 1
+  VGPId: bDenVid1
+  asm: running
+  classes: Aves,Anseriformes,Anatidae,birds
+  common: white-faced whistling-duck
+  scientific: Dendrocygna viduata
+- 10X: 4
+  BN: 1
+  HiC: 2
+  Ilm: 4
+  PB: 1
+  VGPId: bAcrTri1
+  asm: '0'
+  classes: Aves,Passeriformes,Sturnidae,birds
+  common: common myna
+  scientific: Acridotheres tristis
+- 10X: 1
+  BN: 1
+  HiC: 1
+  Ilm: 4
+  PB: 1
+  VGPId: mPhyDis1
+  asm: curated
+  classes: Mammalia,Chiroptera,Phyllostomidae,mammals
+  common: pale spear-nosed bat
+  scientific: Phyllostomus discolor
+- 10X: 1
+  BN: 1
+  HiC: 1
+  Ilm: 4
+  PB: 1
+  VGPId: bCarCri1
+  asm: curated
+  classes: Aves,Cariamiformes,Cariamidae,birds
+  common: Red-legged seriema
+  scientific: Cariama cristata
+- 10X: 1
+  BN: 1
+  HiC: 1
+  Ilm: 4
+  PB: 1
+  VGPId: mLynCan4
+  asm: curated
+  classes: Mammalia,Carnivora,Felidae,mammals
+  common: Canada lynx
+  scientific: Lynx canadensis
+- 10X: 1
+  BN: 1
+  HiC: 1
+  Ilm: 4
+  PB: 1
+  VGPId: bBucAby1
+  asm: curated
+  classes: Aves,Bucerotiformes,Bucorvidae,birds
+  common: Abyssinian ground-hornbill
+  scientific: Bucorvus abyssinicus
+- 10X: 4
+  BN: 1
+  HiC: 1
+  Ilm: 4
+  PB: 1
+  VGPId: bNomDom1
+  asm: running
+  classes: Aves,Anseriformes,Anatidae,birds
+  common: Masked duck
+  scientific: Nomonyx dominicus
+- 10X: 0
+  BN: 1
+  HiC: 5
+  Ilm: 4
+  PB: 5
+  VGPId: fDenClu1
+  asm: curated
+  classes: Actinopterygii,Clupeiformes,Denticipitidae,Bony fishes
+  common: denticle herring
+  scientific: Denticeps clupeoides
+- 10X: 0
+  BN: 1
+  HiC: 5
+  Ilm: 4
+  PB: 5
+  VGPId: mRhiFer1
+  asm: curated
+  classes: Mammalia,Chiroptera,Rhinolophidae,mammals
+  common: greater horseshoe bat
+  scientific: Rhinolophus ferrumequinum
+- 10X: 4
+  BN: 1
+  HiC: 4
+  Ilm: 4
+  PB: 1
+  VGPId: bSpaCya1
+  asm: draft
+  classes: Aves,Anseriformes,Anatidae,birds
+  common: cinnamon teal
+  scientific: Spatula cyanoptera
+- 10X: 0
+  BN: 1
+  HiC: 5
+  Ilm: 4
+  PB: 5
+  VGPId: fErpCal1
+  asm: curated
+  classes: Actinopterygii,Polypteriformes,Polypteridae,Bony fishes
+  common: reedfish
+  scientific: Erpetoichthys calabaricus
+- 10X: 1
+  BN: 1
+  HiC: 5
+  Ilm: 4
+  PB: 5
+  VGPId: mOrnAna1
+  asm: curated
+  classes: Mammalia,Monotremata,Ornithorhynchidae,mammals
+  common: platypus
+  scientific: Ornithorhynchus anatinus
+- 10X: 1
+  BN: 1
+  HiC: 1
+  Ilm: 4
+  PB: 1
+  VGPId: bGeoTri1
+  asm: curated
+  classes: Aves,Passeriformes,Parulidae,birds
+  common: common yellowthroat
+  scientific: Geothlypis trichas
+- 10X: 4
+  BN: 1
+  HiC: 4
+  Ilm: 4
+  PB: 1
+  VGPId: bBraLeu1
+  asm: draft
+  classes: Aves,Anseriformes,Anatidae,birds
+  common: barnacle goose
+  scientific: Branta leucopsis
+- 10X: 4
+  BN: 5
+  HiC: 4
+  Ilm: 4
+  PB: 5
+  VGPId: bTurMer1
+  asm: draft
+  classes: Aves,Passeriformes,Turdidae,birds
+  common: blackbird
+  scientific: Turdus merula
+- 10X: 0
+  BN: 1
+  HiC: 5
+  Ilm: 4
+  PB: 5
+  VGPId: fParRan2
+  asm: curated
+  classes: Actinopterygii,Ovalentaria,Ambassidae,Bony fishes
+  common: Indian glassy fish
+  scientific: Parambassis ranga
+- 10X: 0
+  BN: 1
+  HiC: 5
+  Ilm: 4
+  PB: 5
+  VGPId: sScyCan1
+  asm: curated
+  classes: Chondrichthyes,Carcharhiniformes,Scyliorhinidae,cartilaginous fishes
+  common: smaller spotted catshark
+  scientific: Scyliorhinus canicula
+- 10X: 0
+  BN: 1
+  HiC: 5
+  Ilm: 4
+  PB: 5
+  VGPId: fSalTru1
+  asm: curated
+  classes: Actinopterygii,Salmoniformes,Salmonidae,Bony fishes
+  common: river trout
+  scientific: Salmo trutta
+- 10X: 0
+  BN: 1
+  HiC: 5
+  Ilm: 4
+  PB: 5
+  VGPId: fArcCen1
+  asm: curated
+  classes: Actinopterygii,Cichliformes,Cichlidae,Bony fishes
+  common: flier cichlid
+  scientific: Archocentrus centrarchus
+- 10X: 0
+  BN: 1
+  HiC: 5
+  Ilm: 4
+  PB: 5
+  VGPId: fTakRub1
+  asm: curated
+  classes: Actinopterygii,Tetraodontiformes,Tetraodontidae,Bony fishes
+  common: torafugu
+  scientific: Takifugu rubripes
+- 10X: 1
+  BN: 1
+  HiC: 1
+  Ilm: 4
+  PB: 5
+  VGPId: mChoDid1
+  asm: '0'
+  classes: Mammalia,Folivora,Megalonychidae,mammals
+  common: southern two-toed sloth
+  scientific: Choloepus didactylus
+- 10X: 0
+  BN: 1
+  HiC: 1
+  Ilm: 4
+  PB: 5
+  VGPId: fMasArm1
+  asm: curated
+  classes: Actinopterygii,Synbranchiformes,Mastacembelidae,Bony fishes
+  common: zig-zag eel
+  scientific: Mastacembelus armatus
+- 10X: 1
+  BN: 1
+  HiC: 1
+  Ilm: 4
+  PB: 1
+  VGPId: mCalJac1
+  asm: curated
+  classes: Mammalia,Primates,Cebidae,mammals
+  common: white-tufted-ear marmoset
+  scientific: Callithrix jacchus
+- 10X: 1
+  BN: 1
+  HiC: 1
+  Ilm: 4
+  PB: 1
+  VGPId: fNotCel1
+  asm: curated
+  classes: Actinopterygii,Perciformes,Labridae,Bony fishes
+  common: New Zealand spotty
+  scientific: Notolabrus celidotus
+- 10X: 1
+  BN: 1
+  HiC: 1
+  Ilm: 4
+  PB: 1
+  VGPId: bTauEry1
+  asm: curated
+  classes: Aves,Musophagiformes,Musophagidae,birds
+  common: red-crested turaco
+  scientific: Tauraco erythrolophus
+- 10X: 1
+  BN: 1
+  HiC: 1
+  Ilm: 4
+  PB: 1
+  VGPId: mTacAcu1
+  asm: curated
+  classes: Mammalia,Monotremata,Tachyglossidae,mammals
+  common: Australian echidna
+  scientific: Tachyglossus aculeatus
+- 10X: 1
+  BN: 1
+  HiC: 1
+  Ilm: 4
+  PB: 1
+  VGPId: bChiLan1
+  asm: curated
+  classes: Aves,Passeriformes,Pipridae,birds
+  common: lance-tailed manakin
+  scientific: Chiroxiphia lanceolata
+- 10X: 1
+  BN: 1
+  HiC: 1
+  Ilm: 4
+  PB: 1
+  VGPId: bPhoRub1
+  asm: curated
+  classes: Aves,Phoenicopteriformes,Phoenicopteridae,birds
+  common: American flamingo
+  scientific: Phoenicopterus ruber
+- 10X: 1
+  BN: 1
+  HiC: 1
+  Ilm: 4
+  PB: 1
+  VGPId: bAlcTor1
+  asm: curated
+  classes: Aves,Charadriiformes,Alcidae,birds
+  common: razorbill
+  scientific: Alca torda
+- 10X: 1
+  BN: 1
+  HiC: 1
+  Ilm: 4
+  PB: 1
+  VGPId: mTriVul1
+  asm: curated
+  classes: Mammalia,Diprotodontia,Phalangeridae,mammals
+  common: common brushtail
+  scientific: Trichosurus vulpecula
+- 10X: 1
+  BN: 1
+  HiC: 1
+  Ilm: 4
+  PB: 1
+  VGPId: bSylAtr1
+  asm: curated
+  classes: Aves,Passeriformes,Sylviidae,birds
+  common: blackcap
+  scientific: Sylvia atricapilla
+- 10X: 0
+  BN: 1
+  HiC: 5
+  Ilm: 4
+  PB: 5
+  VGPId: fAmpCit1
+  asm: draft
+  classes: Actinopterygii,Cichliformes,Cichlidae,Bony fishes
+  common: Midas cichlid
+  scientific: Amphilophus citrinellus
+- 10X: 1
+  BN: 1
+  HiC: 1
+  Ilm: 4
+  PB: 1
+  VGPId: fHipHip1
+  asm: curated
+  classes: Actinopterygii,Pleuronectiformes,Pleuronectidae,Bony fishes
+  common: Atlantic halibut
+  scientific: Hippoglossus hippoglossus
+- 10X: 1
+  BN: 1
+  HiC: 1
+  Ilm: 4
+  PB: 1
+  VGPId: rThaEle1
+  asm: curated
+  classes: Reptilia,Squamata,Colubridae,reptiles
+  common: Western terrestrial garter snake
+  scientific: Thamnophis elegans
+- 10X: 1
+  BN: 1
+  HiC: 1
+  Ilm: 4
+  PB: 1
+  VGPId: mPhoSin1
+  asm: curated
+  classes: Mammalia,Artiodactyla,Phocoenidae,mammals
+  common: vaquita
+  scientific: Phocoena sinus
+- 10X: 1
+  BN: 1
+  HiC: 1
+  Ilm: 4
+  PB: 1
+  VGPId: bCygOlo1
+  asm: curated
+  classes: Aves,Anseriformes,Anatidae,birds
+  common: mute swan
+  scientific: Cygnus olor
+- 10X: 1
+  BN: 1
+  HiC: 1
+  Ilm: 4
+  PB: 1
+  VGPId: mZalCal1
+  asm: curated
+  classes: Mammalia,Carnivora,Otariidae,mammals
+  common: California sea lion
+  scientific: Zalophus californianus
+- 10X: 1
+  BN: 1
+  HiC: 1
+  Ilm: 4
+  PB: 1
+  VGPId: bAytFul2
+  asm: curated
+  classes: Aves,Anseriformes,Anatidae,birds
+  common: tufted duck
+  scientific: Aythya fuligula
+- 10X: 1
+  BN: 1
+  HiC: 1
+  Ilm: 4
+  PB: 1
+  VGPId: bMerNub1
+  asm: curated
+  classes: Aves,Coraciiformes,Meropidae,birds
+  common: carmine bee-eater
+  scientific: Merops nubicus
+- 10X: 1
+  BN: 1
+  HiC: 1
+  Ilm: 4
+  PB: 1
+  VGPId: bPteGut1
+  asm: curated
+  classes: Aves,Pterocliformes,Pteroclidae,birds
+  common: yellow-throated sandgrouse
+  scientific: Pterocles gutturalis
+- 10X: 1
+  BN: 1
+  HiC: 1
+  Ilm: 4
+  PB: 1
+  VGPId: bSylBor1
+  asm: curated
+  classes: Aves,Passeriformes,Sylviidae,birds
+  common: garden warbler
+  scientific: Sylvia borin
+- 10X: 0
+  BN: 1
+  HiC: 5
+  Ilm: 4
+  PB: 5
+  VGPId: fAmpLab1
+  asm: draft
+  classes: Actinopterygii,Cichliformes,Cichlidae,Bony fishes
+  common: red devil
+  scientific: Amphilophus labiatus
+- 10X: 1
+  BN: 1
+  HiC: 1
+  Ilm: 4
+  PB: 1
+  VGPId: sPriPec2
+  asm: curated
+  classes: Chondrichthyes,Rhinopristiformes,Pristidae,cartilaginous fishes
+  common: smalltooth sawfish
+  scientific: Pristis pectinata
+- 10X: 1
+  BN: 1
+  HiC: 1
+  Ilm: 4
+  PB: 1
+  VGPId: bCatUst1
+  asm: curated
+  classes: Aves,Passeriformes,Turdidae,birds
+  common: Swainson's thrush
+  scientific: Catharus ustulatus
+- 10X: 1
+  BN: 1
+  HiC: 1
+  Ilm: 4
+  PB: 1
+  VGPId: bSteHir1
+  asm: curated
+  classes: Aves,Charadriiformes,Laridae,birds
+  common: Common tern
+  scientific: Sterna hirundo
+- 10X: 1
+  BN: 1
+  HiC: 1
+  Ilm: 4
+  PB: 5
+  VGPId: bHirRus1
+  asm: curated
+  classes: Aves,Passeriformes,Hirundinidae,birds
+  common: Barn swallow
+  scientific: Hirundo rustica
+- 10X: 1
+  BN: 1
+  HiC: 1
+  Ilm: 4
+  PB: 1
+  VGPId: bCorMon1
+  asm: curated
+  classes: Aves,Passeriformes,Corvidae,birds
+  common: New Caledonian crow
+  scientific: Corvus moneduloides
+- 10X: 1
+  BN: 1
+  HiC: 1
+  Ilm: 4
+  PB: 1
+  VGPId: bCucCan1
+  asm: curated
+  classes: Aves,Cuculiformes,Cuculidae,birds
+  common: common cuckoo
+  scientific: Cuculus canorus
+- 10X: 1
+  BN: 1
+  HiC: 1
+  Ilm: 4
+  PB: 1
+  VGPId: sCarCar2
+  asm: curated
+  classes: Chondrichthyes,Lamniformes,Alopiidae,cartilaginous fishes
+  common: great white shark
+  scientific: Carcharodon carcharias
+- 10X: 1
+  BN: 1
+  HiC: 1
+  Ilm: 4
+  PB: 1
+  VGPId: mLemCat1
+  asm: curated
+  classes: Mammalia,Lemuriformes,Lemuridae,mammals
+  common: Ring-tailed lemur
+  scientific: Lemur catta
+- 10X: 1
+  BN: 1
+  HiC: 1
+  Ilm: 4
+  PB: 1
+  VGPId: rGopFla2
+  asm: draft
+  classes: Reptilia,Testudines,Testudinidae,reptiles
+  common: Mexican gopher tortoise
+  scientific: Gopherus flavomarginatus
+- 10X: 1
+  BN: 1
+  HiC: 1
+  Ilm: 4
+  PB: 1
+  VGPId: fCycLum1
+  asm: curated
+  classes: Actinopterygii,Scorpaeniformes,Cyclopteridae,Bony fishes
+  common: lumpfish
+  scientific: Cyclopterus lumpus
+- 10X: 1
+  BN: 1
+  HiC: 1
+  Ilm: 4
+  PB: 1
+  VGPId: mTurTru1
+  asm: curated
+  classes: Mammalia,Artiodactyla,Delphinidae,mammals
+  common: common bottlenose dolphin
+  scientific: Tursiops truncatus
+- 10X: 1
+  BN: 1
+  HiC: 1
+  Ilm: 4
+  PB: 1
+  VGPId: mMusErm1
+  asm: curated
+  classes: Mammalia,Carnivora,Mustelidae,mammals
+  common: ermine
+  scientific: Mustela erminea
+- 10X: 1
+  BN: 1
+  HiC: 1
+  Ilm: 4
+  PB: 1
+  VGPId: mHomSap3
+  asm: curated
+  classes: Mammalia,Primates,Hominidae,mammals
+  common: human
+  scientific: Homo sapiens
+- 10X: 0
+  BN: 5
+  HiC: 5
+  Ilm: 4
+  PB: 5
+  VGPId: mBalMus1
+  asm: curated
+  classes: Mammalia,Artiodactyla,Balaenopteridae,mammals
+  common: Blue whale
+  scientific: Balaenoptera musculus
+- 10X: 1
+  BN: 1
+  HiC: 1
+  Ilm: 4
+  PB: 1
+  VGPId: bBalReg1
+  asm: curated
+  classes: Aves,Gruiformes,Gruidae,birds
+  common: grey crowned-crane
+  scientific: Balearica regulorum
+- 10X: 1
+  BN: 1
+  HiC: 1
+  Ilm: 4
+  PB: 1
+  VGPId: bGalGal1
+  asm: draft
+  classes: Aves,Galliformes,Phasianidae,birds
+  common: chicken
+  scientific: Gallus gallus
+- 10X: 1
+  BN: 1
+  HiC: 1
+  Ilm: 4
+  PB: 5
+  VGPId: bFalRus1
+  asm: curated
+  classes: Aves,Falconiformes,Falconidae,birds
+  common: gyrfalcon
+  scientific: Falco rusticolus
+- 10X: 1
+  BN: 1
+  HiC: 1
+  Ilm: 4
+  PB: 5
+  VGPId: fSebUmb1
+  asm: curated
+  classes: Actinopterygii,Perciformes,Sebastidae,Bony fishes
+  common: honeycomb rockfish
+  scientific: Sebastes umbrosus
+- 10X: 1
+  BN: 1
+  HiC: 1
+  Ilm: 4
+  PB: 1
+  VGPId: sHemOce1
+  asm: curated
+  classes: Chondrichthyes,Orectolobiformes,Hemiscylliidae,cartilaginous fishes
+  common: epaulette shark
+  scientific: Hemiscyllium ocellatum
+- 10X: 1
+  BN: 1
+  HiC: 1
+  Ilm: 4
+  PB: 1
+  VGPId: bFalNau1
+  asm: curated
+  classes: Aves,Falconiformes,Falconidae,birds
+  common: lesser kestrel
+  scientific: Falco naumanni
+- 10X: 1
+  BN: 1
+  HiC: 1
+  Ilm: 4
+  PB: 1
+  VGPId: bPogPus1
+  asm: curated
+  classes: Aves,Piciformes,Lybiidae,birds
+  common: Red-fronted tinkerbird
+  scientific: Pogoniulus pusillus
+- 10X: 1
+  BN: 1
+  HiC: 1
+  Ilm: 4
+  PB: 1
+  VGPId: mEreDor1
+  asm: curation
+  classes: Mammalia,Rodentia,Erethizontidae,mammals
+  common: North American porcupine
+  scientific: Erethizon dorsatum
+- 10X: 1
+  BN: 1
+  HiC: 1
+  Ilm: 4
+  PB: 1
+  VGPId: fTauAds1
+  asm: curation
+  classes: Actinopterygii,Perciformes,Labridae,Bony fishes
+  common: cunner
+  scientific: Tautogolabrus adspersus
+- 10X: 1
+  BN: 1
+  HiC: 1
+  Ilm: 4
+  PB: 1
+  VGPId: bTheCae1
+  asm: curated
+  classes: Aves,Pelecaniformes,Threskiornithidae,birds
+  common: plumbeous ibis
+  scientific: Theristicus caerulescens
+- 10X: 1
+  BN: 1
+  HiC: 1
+  Ilm: 4
+  PB: 1
+  VGPId: bTroSur1
+  asm: curated
+  classes: Aves,Trogoniformes,Trogonidae,birds
+  common: Suruca trogon
+  scientific: Trogon surrucura
+- 10X: 1
+  BN: 1
+  HiC: 1
+  Ilm: 4
+  PB: 1
+  VGPId: bGruAme1
+  asm: running
+  classes: Aves,Gruiformes,Gruidae,birds
+  common: Whooping crane
+  scientific: Grus americana
+- 10X: 4
+  BN: 1
+  HiC: 1
+  Ilm: 4
+  PB: 1
+  VGPId: sPotMar1
+  asm: running
+  classes: Chondrichthyes,Myliobatiformes,Potamotrygonidae,cartilaginous fishes
+  common: gold dust stingray
+  scientific: Potamotrygon marinae
+- 10X: 1
+  BN: 1
+  HiC: 1
+  Ilm: 4
+  PB: 1
+  VGPId: mSunEtr1
+  asm: running
+  classes: Mammalia,Eulipotyphla,Soricidae,mammals
+  common: white-toothed pygmy shrew
+  scientific: Suncus etruscus
+- 10X: 4
+  BN: 1
+  HiC: 1
+  Ilm: 4
+  PB: 1
+  VGPId: bFalPer1
+  asm: running
+  classes: Aves,Falconiformes,Falconidae,birds
+  common: peregrine falcon
+  scientific: Falco peregrinus
+- 10X: 4
+  BN: 1
+  HiC: 1
+  Ilm: 4
+  PB: 1
+  VGPId: bFalChe1
+  asm: running
+  classes: Aves,Falconiformes,Falconidae,birds
+  common: Saker falcon
+  scientific: Falco cherrug
+- 10X: 4
+  BN: 1
+  HiC: 1
+  Ilm: 4
+  PB: 1
+  VGPId: bFalBia1
+  asm: running
+  classes: Aves,Falconiformes,Falconidae,birds
+  common: lanner falcon
+  scientific: Falco biarmicus
+- 10X: 4
+  BN: 1
+  HiC: 1
+  Ilm: 4
+  PB: 1
+  VGPId: mDicBic1
+  asm: curated
+  classes: Mammalia,Perissodactyla,Rhinocerotidae,mammals
+  common: black rhinoceros
+  scientific: Diceros bicornis
+- 10X: 4
+  BN: 1
+  HiC: 1
+  Ilm: 4
+  PB: 2
+  VGPId: mMacEug1
+  asm: '0'
+  classes: Mammalia,Diprotodontia,Macropodidae,mammals
+  common: tammar wallaby
+  scientific: Macropus eugenii
+- 10X: 4
+  BN: 1
+  HiC: 1
+  Ilm: 4
+  PB: 1
+  VGPId: fAloSap1
+  asm: curated
+  classes: Actinopterygii,Clupeiformes,Clupeidae,Bony fishes
+  common: American shad
+  scientific: Alosa sapidissima
+- 10X: 4
+  BN: 1
+  HiC: 1
+  Ilm: 4
+  PB: 1
+  VGPId: bPorHoc1
+  asm: curated
+  classes: Aves,Gruiformes,Rallidae,birds
+  common: South Island takahe
+  scientific: Porphyrio hochstetteri
+- 10X: 4
+  BN: 1
+  HiC: 1
+  Ilm: 4
+  PB: 1
+  VGPId: bCorHaw1
+  asm: curation
+  classes: Aves,Passeriformes,Corvidae,birds
+  common: hawaiian crow
+  scientific: Corvus hawaiiensis
+- 10X: 4
+  BN: 0
+  HiC: 1
+  Ilm: 4
+  PB: 1
+  VGPId: fScoJap1
+  asm: '0'
+  classes: Actinopterygii,Scombriformes,Scombridae,Bony fishes
+  common: chub mackerel
+  scientific: Scomber japonicus
+- 10X: 4
+  BN: 1
+  HiC: 0
+  Ilm: 4
+  PB: 0
+  VGPId: mManPen7
+  asm: '0'
+  classes: Mammalia,Pholidota,Manidae,mammals
+  common: Chinese pangolin
+  scientific: Manis pentadactyla
+- 10X: 4
+  BN: 1
+  HiC: 5
+  Ilm: 4
+  PB: 2
+  VGPId: mEscRob1
+  asm: '0'
+  classes: Mammalia,Artiodactyla,Eschrichtiidae,mammals
+  common: grey whale
+  scientific: Eschrichtius robustus
+- 10X: 4
+  BN: 3
+  HiC: 0
+  Ilm: 4
+  PB: 0
+  VGPId: mThoBot1
+  asm: '0'
+  classes: Mammalia,Rodentia,Geomyidae,mammals
+  common: Botta's pocket gopher
+  scientific: Thomomys bottae
+- 10X: 4
+  BN: 1
+  HiC: 2
+  Ilm: 4
+  PB: 5
+  VGPId: aRanSyl1
+  asm: '0'
+  classes: Amphibia,Anura,Ranidae,amphibians
+  common: wood frog
+  scientific: Rana sylvatica
+- 10X: 4
+  BN: 3
+  HiC: 0
+  Ilm: 4
+  PB: 2
+  VGPId: aGasCar1
+  asm: '0'
+  classes: Amphibia,Anura,Microhylidae,amphibians
+  common: eastern narrow-mouthed toad
+  scientific: Gastrophryne carolinensis
+- 10X: 4
+  BN: 3
+  HiC: 0
+  Ilm: 4
+  PB: 2
+  VGPId: fMelPam1
+  asm: '0'
+  classes: Actinopterygii,Perciformes,Zoarcidae,Bony fishes
+  common: midwater eelpout
+  scientific: Melanostigma pammelas
+- 10X: 4
+  BN: 1
+  HiC: 2
+  Ilm: 4
+  PB: 2
+  VGPId: rEryReg1
+  asm: '0'
+  classes: Reptilia,Squamata,Dipsadidae,reptiles
+  common: royal ground snake
+  scientific: Erythrolamprus reginae
+- 10X: 0
+  BN: 1
+  HiC: 1
+  Ilm: 4
+  PB: 1
+  VGPId: bHaeMex1
+  asm: running
+  classes: Aves,Passeriformes,Fringillidae,birds
+  common: house finch
+  scientific: Haemorhous mexicanus
+- 10X: 4
+  BN: 1
+  HiC: 1
+  Ilm: 4
+  PB: 2
+  VGPId: mSorAra1
+  asm: '0'
+  classes: Mammalia,Eulipotyphla,Soricidae,mammals
+  common: European shrew
+  scientific: Sorex araneus
+- 10X: 4
+  BN: 0
+  HiC: 0
+  Ilm: 4
+  PB: 2
+  VGPId: mOchPri1
+  asm: '0'
+  classes: Mammalia,Lagomorpha,Ochotonidae,mammals
+  common: American pika
+  scientific: Ochotona princeps
+- 10X: 4
+  BN: 1
+  HiC: 2
+  Ilm: 4
+  PB: 1
+  VGPId: bGypBar2
+  asm: '0'
+  classes: Aves,Falconiformes,Accipitridae,birds
+  common: lammergeier
+  scientific: Gypaetus barbatus
+- 10X: 4
+  BN: 1
+  HiC: 1
+  Ilm: 4
+  PB: 0
+  VGPId: fFunDia1
+  asm: '0'
+  classes: Actinopteri,Cyprinodontiformes,Fundulidae,Bony fishes
+  common: banded killifish
+  scientific: Fundulus diaphanus
+- 10X: 4
+  BN: 1
+  HiC: 1
+  Ilm: 4
+  PB: 0
+  VGPId: mNeoNeb1
+  asm: '0'
+  classes: Mammalia,Carnivora,Felidae,mammals
+  common: Clouded leopard
+  scientific: Neofelis nebulosa
+- 10X: 4
+  BN: 1
+  HiC: 1
+  Ilm: 4
+  PB: 0
+  VGPId: mDasNov1
+  asm: '0'
+  classes: Mammalia,Cingulata,Dasypodidae,mammals
+  common: nine-banded armadillo
+  scientific: Dasypus novemcinctus
+- 10X: 4
+  BN: 1
+  HiC: 1
+  Ilm: 4
+  PB: 2
+  VGPId: fNeoGra1
+  asm: '0'
+  classes: Actinopterygii,Siluriformes,Ariidae,Bony fishes
+  common: lesser salmon catfish
+  scientific: Neoarius graeffei
+- 10X: 4
+  BN: 1
+  HiC: 0
+  Ilm: 4
+  PB: 0
+  VGPId: rAllMis1
+  asm: '0'
+  classes: Reptilia,Crocodylia,Alligatoridae,reptiles
+  common: American alligator
+  scientific: Alligator mississippiensis
+- 10X: 4
+  BN: 1
+  HiC: 0
+  Ilm: 4
+  PB: 0
+  VGPId: rRhiFlo1
+  asm: '0'
+  classes: Reptilia,Squamata,Rhineuridae,reptiles
+  common: Florida worm lizard
+  scientific: Rhineura floridana
+- 10X: 4
+  BN: 1
+  HiC: 0
+  Ilm: 4
+  PB: 0
+  VGPId: sHetFra1
+  asm: '0'
+  classes: Chondrichthyes,Heterodontiformes,Heterodontidae,cartilaginous fishes
+  common: horn shark
+  scientific: Heterodontus francisci
+- 10X: 4
+  BN: 1
+  HiC: 0
+  Ilm: 4
+  PB: 0
+  VGPId: rMalTer1
+  asm: '0'
+  classes: Reptilia,Testudines,Emydidae,reptiles
+  common: diamondback terrapin
+  scientific: Malaclemys terrapin
+- 10X: 4
+  BN: 1
+  HiC: 5
+  Ilm: 4
+  PB: 2
+  VGPId: mEubGla1
+  asm: '0'
+  classes: Mammalia,Artiodactyla,Balaenidae,mammals
+  common: North Atlantic right whale
+  scientific: Eubalaena glacialis
+- 10X: 4
+  BN: 1
+  HiC: 0
+  Ilm: 4
+  PB: 0
+  VGPId: rEulEur1
+  asm: '0'
+  classes: Reptilia,Squamata,Sphaerodactylidae,reptiles
+  common: tarantolino
+  scientific: Euleptes europaea
+- 10X: 4
+  BN: 1
+  HiC: 0
+  Ilm: 4
+  PB: 0
+  VGPId: aHylSar1
+  asm: '0'
+  classes: Amphibia,Anura,Hylidae,amphibians
+  common: Sardinian tree frog
+  scientific: Hyla sarda
+- 10X: 4
+  BN: 1
+  HiC: 0
+  Ilm: 4
+  PB: 0
+  VGPId: aLepFus1
+  asm: '0'
+  classes: Amphibia,Anura,Leptodactylidae,amphibians
+  common: rufous frog
+  scientific: Leptodactylus fuscus
+- 10X: 4
+  BN: 1
+  HiC: 0
+  Ilm: 4
+  PB: 0
+  VGPId: aAnoBae1
+  asm: '0'
+  classes: Amphibia,Anura,Dendrobatidae,amphibians
+  common: rocket frog
+  scientific: Anomaloglossus baeobatrachus
+- 10X: 4
+  BN: 1
+  HiC: 0
+  Ilm: 4
+  PB: 0
+  VGPId: aSpeBom1
+  asm: '0'
+  classes: Amphibia,Anura,Pelobatidae,amphibians
+  common: plains spadefoot toad
+  scientific: Spea bombifrons
+- 10X: 4
+  BN: 1
+  HiC: 0
+  Ilm: 4
+  PB: 2
+  VGPId: mNycCou1
+  asm: '0'
+  classes: Mammalia,Primates,Lorisidae,mammals
+  common: slow loris
+  scientific: Nycticebus coucang
+- 10X: 4
+  BN: 1
+  HiC: 2
+  Ilm: 4
+  PB: 2
+  VGPId: bMelMel1
+  asm: '0'
+  classes: Aves,Passeriformes,Passerellidae,birds
+  common: song sparrow
+  scientific: Melospiza melodia
+- 10X: 4
+  BN: 1
+  HiC: 2
+  Ilm: 4
+  PB: 0
+  VGPId: bPasSan1
+  asm: '0'
+  classes: Aves,Passeriformes,Passerellidae,birds
+  common: Savannah sparrow
+  scientific: Passerculus sandwichensis
+- 10X: 4
+  BN: 1
+  HiC: 2
+  Ilm: 4
+  PB: 0
+  VGPId: bAmmCau1
+  asm: '0'
+  classes: Aves,Passeriformes,Passerellidae,birds
+  common: saltmarsh sparrow
+  scientific: Ammodramus caudacutus
+- 10X: 4
+  BN: 1
+  HiC: 0
+  Ilm: 4
+  PB: 0
+  VGPId: aHypRig1
+  asm: '0'
+  classes: Amphibia,Anura,Hyperoliidae,amphibians
+  common: Riggenbach's reed frog
+  scientific: Hyperolius riggenbachi
+- 10X: 4
+  BN: 1
+  HiC: 0
+  Ilm: 4
+  PB: 0
+  VGPId: bAraAra1
+  asm: '0'
+  classes: Aves,Psittaciformes,Psittacidae,birds
+  common: blue-and-yellow macaw
+  scientific: Ara ararauna
+- 10X: 4
+  BN: 0
+  HiC: 0
+  Ilm: 4
+  PB: 0
+  VGPId: aPseCor1
+  asm: '0'
+  classes: Amphibia,Anura,Myobatrachidae,amphibians
+  common: corroboree frog
+  scientific: Pseudophryne corroboree
+- 10X: 1
+  BN: 1
+  HiC: 1
+  Ilm: 4
+  PB: 1
+  VGPId: bMelUnd1
+  asm: curated
+  classes: Aves,Psittaciformes,Psittaculidae,birds
+  common: budgerigar
+  scientific: Melopsittacus undulatus
+- 10X: 1
+  BN: 1
+  HiC: 1
+  Ilm: 4
+  PB: 1
+  VGPId: rLacAgi1
+  asm: curated
+  classes: Reptilia,Squamata,Lacertidae,reptiles
+  common: sand lizard
+  scientific: Lacerta agilis
+- 10X: 1
+  BN: 1
+  HiC: 1
+  Ilm: 4
+  PB: 1
+  VGPId: bAcaChl1
+  asm: curated
+  classes: Aves,Passeriformes,Acanthisittidae,birds
+  common: rifleman
+  scientific: Acanthisitta chloris
+- 10X: 4
+  BN: 1
+  HiC: 2
+  Ilm: 4
+  PB: 0
+  VGPId: mMonDom1
+  asm: '0'
+  classes: Mammalia,Didelphimorphia,Didelphidae,mammals
+  common: gray short-tailed opossum
+  scientific: Monodelphis domestica
+- 10X: 1
+  BN: 1
+  HiC: 1
+  Ilm: 4
+  PB: 1
+  VGPId: aDenEbr1
+  asm: curation
+  classes: Amphibia,Anura,Hylidae,amphibians
+  common: hourglass treefrog
+  scientific: Dendropsophus ebraccatus
+- 10X: 1
+  BN: 1
+  HiC: 1
+  Ilm: 4
+  PB: 1
+  VGPId: bGalGal4
+  asm: curation
+  classes: Aves,Galliformes,Phasianidae,birds
+  common: chicken
+  scientific: Gallus gallus
+- 10X: 1
+  BN: 1
+  HiC: 1
+  Ilm: 4
+  PB: 1
+  VGPId: bGalGal5
+  asm: curation
+  classes: Aves,Galliformes,Phasianidae,birds
+  common: chicken
+  scientific: Gallus gallus
+- 10X: 4
+  BN: 1
+  HiC: 2
+  Ilm: 4
+  PB: 0
+  VGPId: bAmmNel1
+  asm: '0'
+  classes: Aves,Passeriformes,Passerellidae,birds
+  common: Nelson's sparrow
+  scientific: Ammospiza nelsoni
+- 10X: 4
+  BN: 0
+  HiC: 0
+  Ilm: 4
+  PB: 0
+  VGPId: fCypLut1
+  asm: '0'
+  classes: Actinopterygii,Cypriniformes,Leuciscidae,Bony fishes
+  common: red shiner
+  scientific: Cyprinella lutrensis
+- 10X: 0
+  BN: 1
+  HiC: 5
+  Ilm: 4
+  PB: 5
+  VGPId: mRhiSin1
+  asm: draft
+  classes: Mammalia,Chiroptera,Rhinolophidae,mammals
+  common: Chinese rufous horseshoe bat
+  scientific: Rhinolophus sinicus
+- 10X: 1
+  BN: 1
+  HiC: 1
+  Ilm: 4
+  PB: 1
+  VGPId: rGopEvg1
+  asm: curated
+  classes: Reptilia,Testudines,Testudinidae,reptiles
+  common: Goodes thornscrub tortoise
+  scientific: Gopherus evgoodei
+- 10X: 4
+  BN: 1
+  HiC: 0
+  Ilm: 4
+  PB: 0
+  VGPId: bPodStr1
+  asm: '0'
+  classes: Aves,Caprimulgiformes,Podargidae,birds
+  common: tawny frogmouth
+  scientific: Podargus strigoides
+- 10X: 4
+  BN: 1
+  HiC: 1
+  Ilm: 4
+  PB: 1
+  VGPId: fCycLum2
+  asm: running
+  classes: Actinopterygii,Scorpaeniformes,Cyclopteridae,Bony fishes
+  common: lumpfish
+  scientific: Cyclopterus lumpus
+- 10X: 4
+  BN: 1
+  HiC: 5
+  Ilm: 4
+  PB: 2
+  VGPId: mMesDen1
+  asm: '0'
+  classes: Mammalia,Artiodactyla,Ziphiidae,mammals
+  common: Blainville's beaked whale
+  scientific: Mesoplodon densirostris
+- 10X: 4
+  BN: 1
+  HiC: 0
+  Ilm: 4
+  PB: 0
+  VGPId: aSalSal1
+  asm: '0'
+  classes: Amphibia,Caudata,Salamandridae,amphibians
+  common: fire salamander
+  scientific: Salamandra salamandra
+- 10X: 1
+  BN: 1
+  HiC: 1
+  Ilm: 4
+  PB: 1
+  VGPId: bTaeGut2
+  asm: running
+  classes: Aves,Passeriformes,Estrildidae,birds
+  common: zebra finch
+  scientific: Taeniopygia guttata
+- 10X: 4
+  BN: 1
+  HiC: 1
+  Ilm: 4
+  PB: 0
+  VGPId: fOsmMor3
+  asm: '0'
+  classes: Actinopterygii,Osmeriformes,Osmeridae,Bony fishes
+  common: rainbow smelt
+  scientific: Osmerus mordax
+- 10X: 4
+  BN: 1
+  HiC: 5
+  Ilm: 4
+  PB: 1
+  VGPId: mKogBre1
+  asm: running
+  classes: Mammalia,Artiodactyla,Physeteridae,mammals
+  common: pygmy sperm whale
+  scientific: Kogia breviceps
+- 10X: 0
+  BN: 1
+  HiC: 5
+  Ilm: 4
+  PB: 5
+  VGPId: mRouAeg1
+  asm: draft
+  classes: Mammalia,Chiroptera,Pteropodidae,mammals
+  common: Egyptian rousette
+  scientific: Rousettus aegyptiacus
+- 10X: 4
+  BN: 1
+  HiC: 0
+  Ilm: 4
+  PB: 0
+  VGPId: bPtePen1
+  asm: '0'
+  classes: Aves,Rheiformes,Rheidae,birds
+  common: lesser rhea
+  scientific: Rhea pennata
+- 10X: 1
+  BN: 1
+  HiC: 1
+  Ilm: 4
+  PB: 1
+  VGPId: bHemCom1
+  asm: curation
+  classes: Aves,Apodiformes,Apodidae,birds
+  common: whiskered treeswift
+  scientific: Hemiprocne comata
+- 10X: 1
+  BN: 1
+  HiC: 1
+  Ilm: 4
+  PB: 1
+  VGPId: bNycGra1
+  asm: curated
+  classes: Aves,Caprimulgiformes,Nyctibiidae,birds
+  common: great potoo
+  scientific: Nyctibius grandis
+- 10X: 4
+  BN: 1
+  HiC: 0
+  Ilm: 4
+  PB: 0
+  VGPId: rSteOdo1
+  asm: '0'
+  classes: Reptilia,Testudines,Kinosternidae,reptiles
+  common: eastern musk turtle
+  scientific: Sternotherus odoratus
+- 10X: 0
+  BN: 0
+  HiC: 1
+  Ilm: 4
+  PB: 1
+  VGPId: bVidCha1
+  asm: running
+  classes: Aves,Passeriformes,Estrildidae,birds
+  common: village indigobird
+  scientific: Vidua chalybeata
+- 10X: 1
+  BN: 1
+  HiC: 1
+  Ilm: 4
+  PB: 1
+  VGPId: bCicMag1
+  asm: curated
+  classes: Aves,Ciconiiformes,Ciconiidae,birds
+  common: maguari stork
+  scientific: Ciconia maguari
+- 10X: 1
+  BN: 1
+  HiC: 1
+  Ilm: 4
+  PB: 1
+  VGPId: fPerMag1
+  asm: curated
+  classes: Actinopterygii,Gobiiformes,Gobiidae,Bony fishes
+  common: Korean giant-fin mudskipper
+  scientific: Periophthalmus magnuspinnatus
+- 10X: 4
+  BN: 1
+  HiC: 1
+  Ilm: 4
+  PB: 1
+  VGPId: rVipLat1
+  asm: running
+  classes: Reptilia,Squamata,Viperidae,reptiles
+  common: snub-nosed viper
+  scientific: Vipera latastei
+- 10X: 4
+  BN: 1
+  HiC: 0
+  Ilm: 4
+  PB: 0
+  VGPId: bAmmMai1
+  asm: '0'
+  classes: Aves,Passeriformes,Passerellidae,birds
+  common: seaside sparrow
+  scientific: Ammodramus maritimus
+- 10X: 1
+  BN: 1
+  HiC: 1
+  Ilm: 4
+  PB: 1
+  VGPId: bPluApr1
+  asm: curated
+  classes: Aves,Charadriiformes,Charadriidae,birds
+  common: European golden plover
+  scientific: Pluvialis apricaria
+- 10X: 4
+  BN: 2
+  HiC: 0
+  Ilm: 4
+  PB: 0
+  VGPId: sNarBan1
+  asm: '0'
+  classes: Chondrichthyes,Torpediniformes,Narcinidae,cartilaginous fishes
+  common: Caribbean electric ray
+  scientific: Narcine bancroftii
+- 10X: 4
+  BN: 0
+  HiC: 0
+  Ilm: 4
+  PB: 0
+  VGPId: xcOctChie1
+  asm: '0'
+  classes: Cephalopoda,Octopoda,Octopodidae,invertebrates
+  common: lesser Pacific striped octopus
+  scientific: Octopus chierchiae
+- 10X: 1
+  BN: 5
+  HiC: 5
+  Ilm: 4
+  PB: 5
+  VGPId: bTaeGut1
+  asm: curated
+  classes: Aves,Passeriformes,Estrildidae,birds
+  common: zebra finch
+  scientific: Taeniopygia guttata
+- 10X: 1
+  BN: 0
+  HiC: 0
+  Ilm: 4
+  PB: 1
+  VGPId: kcPetMari1
+  asm: '0'
+  classes: Hyperoartia,Petromyzontiformes,Petromyzontidae,jawless,Agnatha
+  common: sea lamprey
+  scientific: Petromyzon marinus
+- 10X: 4
+  BN: 1
+  HiC: 0
+  Ilm: 4
+  PB: 2
+  VGPId: mPseCra1
+  asm: '0'
+  classes: Mammalia,Artiodactyla,Delphinidae,mammals
+  common: false killer whale
+  scientific: Pseudorca crassidens
