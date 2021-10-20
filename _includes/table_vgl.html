@@ -26,7 +26,7 @@
 <table id="table" data-sort-name="score" data-sort-order="desc" class="table table-sm" data-toolbar=".toolbar" data-pagination="true" data-page-size="20" data-search="true" data-search-align="right" data-show-columns="true" data-sort-name="Status" data-sort-order="desc">
   <thead class="thead-light">
            <tr>
-              <th data-visible="false" data-switchable="false" data-sortable="true" data-field="source">Source</th>
+              <th data-visible="false" data-switchable="false" data-sortable="true" data-field="hub">Hub</th>
              <th data-width="80">Id</th>
             <th data-width="150">Scientific Name</th>
             <th data-width="150">Common Name</th>
@@ -125,16 +125,16 @@
     else
         {
             if(selValue=="phase1"){
-                $table.bootstrapTable('filterBy', {Phase: ["phase1"]})
+                $table.bootstrapTable('filterBy', {phase: ["phase1"]})
                 }
             if(selValue=="phase2"){
-                $table.bootstrapTable('filterBy', {Phase: ["phase1","phase2"]})
+                $table.bootstrapTable('filterBy', {phase: ["phase1","phase2"]})
             }
             if(selValue=="phase3"){
-                $table.bootstrapTable('filterBy', {Phase: ["phase1","phase2","phase3"]})
+                $table.bootstrapTable('filterBy', {phase: ["phase1","phase2","phase3"]})
             }
             if(selValue=="phase4"){
-                $table.bootstrapTable('filterBy', {Phase: ["phase1","phase2","phase3","phase4"]})
+                $table.bootstrapTable('filterBy', {phase: ["phase1","phase2","phase3","phase4"]})
             }
         }
     });   
