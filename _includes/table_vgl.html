@@ -83,7 +83,11 @@
                     <td style="text-align: center;" data-order="{{ entry.techs.Ilm.status }}"><a href="{{ entry.techs.Ilm.url }}" target="_blank"><img src="assets\img\{{ entry.techs.Ilm.status }}.png" width="15" height="15"/></a></td>
            {% endif %}
            
-          <td><b>{{ entry.status }}</b></td>
+           {% if entry.asm == "#" %}
+                   <td style="text-align: center;" data-order="{{ entry.status }}"><img src="assets\img\{{ entry.status }}.png" width="15" height="15"/></td>
+          {% else %}
+                    <td style="text-align: center;" data-order="{{ entry.status }}"><a href="{{ entry.asm }}" target="_blank"><img src="assets\img\{{ entry.status }}.png" width="15" height="15"/></a></td>
+           {% endif %}
           <td>{{ entry.vgp_phase }}</td/> 
          </tr>
     {% endfor %}
