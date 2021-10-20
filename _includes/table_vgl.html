@@ -53,37 +53,37 @@
              <td>{{ entry.class }}</td/>
     <td>{{ entry.order }}</td/>
 <td>{{ entry.family }}</td/>
-          {% if entry.links.PB == "#" %}
+          {% if entry.techs.PB.url == "#" %}
                    <td style="text-align: center;"  data-order="{{ entry.techs.PB.status }}"><img src="assets\img\{{ entry.techs.PB.status }}.png" width="15" height="15"/></td>
           {% else %}
                     <td style="text-align: center;" data-order="{{ entry.techs.PB.status }}"><a href="{{ entry.techs.PB.url }}" target="_blank"><img src="assets\img\{{ entry.techs.PB }}.png" width="15" height="15"/></a></td>
            {% endif %}   
            
-           {% if entry.links.BN == "#" %}
+           {% if entry.techs.BN.url == "#" %}
                    <td style="text-align: center;" data-order="{{ entry.techs.BN.status }}"><img src="assets\img\{{ entry.techs.BN.status }}.png" width="15" height="15"/></td>
           {% else %}
                     <td style="text-align: center;" data-order="{{ entry.techs.BN.status }}"><a href="{{ entry.techs.BN.url }}" target="_blank"><img src="assets\img\{{ entry.techs.BN }}.png" width="15" height="15"/></a></td>
            {% endif %} 
            
-           {% if entry.links.HiC == "#" %}
+           {% if entry.techs.HiC.url == "#" %}
                    <td style="text-align: center;" data-order="{{ entry.techs.HiC.status }}"><img src="assets\img\{{ entry.techs.HiC.status }}.png" width="15" height="15"/></td>
           {% else %}
                     <td style="text-align: center;" data-order="{{ entry.techs.HiC.status }}"><a href="{{ entry.techs.HiC.url }}" target="_blank"><img src="assets\img\{{ entry.techs.HiC }}.png" width="15" height="15"/></a></td>
            {% endif %} 
            
-             {% if entry.links.10X == "#" %}
+             {% if entry.techs.10X.url == "#" %}
                    <td style="text-align: center;" data-order="{{ entry.techs.10X.status }}"><img src="assets\img\{{ entry.techs.10X.status }}.png" width="15" height="15"/></td>
           {% else %}
                     <td style="text-align: center;" data-order="{{ entry.techs.10X.status }}"><a href="{{ entry.techs.10X.url }}" target="_blank"><img src="assets\img\{{ entry.techs.10X }}.png" width="15" height="15"/></a></td>
            {% endif %} 
            
-            {% if entry.links.Ilm == "#" %}
+            {% if entry.techs.Ilm.url == "#" %}
                    <td style="text-align: center;" data-order="{{ entry.techs.Ilm.status }}"><img src="assets\img\{{ entry.techs.Ilm.status }}.png" width="15" height="15"/></td>
           {% else %}
                     <td style="text-align: center;" data-order="{{ entry.techs.Ilm.status }}"><a href="{{ entry.techs.Ilm.url }}" target="_blank"><img src="assets\img\{{ entry.techs.Ilm }}.png" width="15" height="15"/></a></td>
            {% endif %}
            
-           {% if entry.links.asm == "#" %}
+           {% if entry.asm == "#" %}
                   <td style="text-align: center;" data-order="{{ entry.status }}"><img src="assets\img\{{ entry.status }}.png" height="15"/></td>
           {% else %}
                    <td style="text-align: center;" data-order="{{ entry.status }}" ><a href="{{ entry.asm }}" target="_blank"><img src="assets\img\{{ entry.status }}.png" height="15"/></a></td>
